@@ -9,5 +9,6 @@
 <body>
 	<h3>Hello World!</h3>
 	<p>lorem</p>
+	<p>hai ini line 2</p>
 </body>
 </html>
